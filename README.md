@@ -324,9 +324,9 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * [http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/](http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/)
 
 ## Conferences:
-* [Defcon] https://www.defcon.org/  one of the largest worldwide Hacking conferences  in the world  
-* [Blackhat] https://blackhat.com/  large worldwide conference all over the globe 
-* [ RSA Conference ] https://www.rsaconference.com/ The RSA Conference is an annual event focused on helping improve cybersecurity awareness and cybersecurity culture in companies, and similarly expanding this knowledge in individuals across the globe. 
+* [Defcon](https://www.defcon.org/)  one of the largest worldwide Hacking conferences  in the world  
+* [Blackhat](https://blackhat.com/)  large worldwide conference all over the globe 
+* [RSA Conference](https://www.rsaconference.com/) The RSA Conference is an annual event focused on helping improve cybersecurity awareness and cybersecurity culture in companies, and similarly expanding this knowledge in individuals across the globe. 
 
 * [Calendar for Information Security Conferences](https://www.google.com/calendar/embed?src=pe2ikdbe6b841od6e26ato0asc@group.calendar.google.com&gsessionid=OK)
 ## Blogs, Wikis, Magazines, and Forums
@@ -393,13 +393,13 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://blog.0x3f.net/tool/keimpx-in-action/
 * http://code.google.com/p/keimpx/
 * http://sourceforge.net/projects/hashkill/
-### Password and hash cracking in browser 
+### Password and hash cracking in the browser 
 * https://crackstation.net/
 * http://www.onlinehashcrack.com/
 * https://www.base64encode.org/
 * https://www.base64encode.net/
 ### Wordlists:
-* [Seclists] (https://github.com/danielmiessler/SecLists) one of the most well known set of wordlists. Referenced in many ctfs 
+* [Seclists] (https://github.com/danielmiessler/SecLists one of the most well-known sets of wordlists. Referenced in many CTFS 
 * [Korelogic](http://contest.korelogic.com/wordlists.html)
 * [PacketStorm](http://packetstormsecurity.org/Crackers/wordlists/)
 * [Skullsecurity](http://www.skullsecurity.org/wiki/index.php/Passwords)
@@ -462,7 +462,6 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://packetstormsecurity.org/files/view/69896/unicode-fun.txt
 * http://sourceforge.net/projects/ws-attacker/files/
 * https://github.com/koto/squid-imposter
-Vectors 
 ####  SQLi: (SQL injection ) 
 
 * http://pentestmonkey.net/blog/mssql-sql-injection-cheat-sheet/
@@ -513,7 +512,7 @@ Vectors
 * http://labs.neohapsis.com/2008/07/21/local-file-inclusion-%E2%80%93-tricks-of-the-trade/
 * http://www.digininja.org/blog/when_all_you_can_do_is_read.php
 
-#### XSS: (Cross site Scripting) 
+#### XSS: (Cross-site Scripting) 
 
 * http://www.infosecwriters.com/hhworld/hh8/csstut.htm
 * http://www.technicalinfo.net/papers/CSS.html
@@ -631,8 +630,6 @@ Vectors
 * http://www.fiddler2.com/fiddler2/
 * http://websecuritytool.codeplex.com/documentation?referringTitle=Home
 * http://translate.google.com/translate?hl=en&sl=es&u=http://xss.codeplex.com/releases/view/43170&prev=/search%3Fq%3Dhttp://www.hackingeek.com/2010/08/x5s-encuentra-fallos-xss-lfi-rfi-en-tus.html%26hl%3Den&rurl=translate.google.com&twu=1
-* 
-* ]
 #### Net Scanners and Scripts:
 * http://nmap.org/
 * http://asturio.gmxhome.de/software/sambascan2/i.html
@@ -640,12 +637,7 @@ Vectors
 * http://www.openvas.org/
 * http://tenable.com/products/nessus
 * http://www.rapid7.com/vulnerability-scanner.jsp
-* http://www.eeye.com/products/retina/community
-* 
-* 
-* 
-* 
-*    
+* http://www.eeye.com/products/retina/community 
 ## Cheatsheets and Syntax:
 * http://cirt.net/ports_dl.php?export=services
 * http://www.cheat-sheets.org/

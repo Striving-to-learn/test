@@ -35,7 +35,9 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
 - [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
 - [Cyber Aces](https://www.cyberaces.org/) Offers free online cybersecurity courses.
-
+- [TryHackMe](https://tryhackme.com/): Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
+- [HackThisSite](https://www.hackthissite.org/) HackThisSite is an online platform that focuses on providing realistic and gamified hacking challenges.
+- [HackTheBox](https://www.hackthebox.eu/) HackTheBox is an online platform that focuses on providing realistic and gamified hacking challenges.
 ## Programming
 
 - [edX](https://www.edx.org/): Provides various free programming courses from universities.

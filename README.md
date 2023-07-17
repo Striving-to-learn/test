@@ -20,7 +20,7 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [[Vulnerability Research](Vulnerability research)](https://github.com/themixedcoder/test/blob/main/README.md#vulnerability-research)
 - [Osint](#Osint)
 - [[References and Scripts](#References and Scripts)](https://github.com/themixedcoder/test/blob/main/README.md#references-and-scripts)
-- [[Conferences:](Conferences:)](https://github.com/themixedcoder/test/blob/main/README.md#conferences)
+- [Conferences]](https://github.com/themixedcoder/test/blob/main/README.md#conferences)
 - [[[Blogs, Wikis, Magazines, and Forums](https://github.com/themixedcoder/test/blob/main/README.md#blogs-wikis-magazines-and-forums)
 - [Hacking Techniques](https://github.com/themixedcoder/test/blob/main/README.md#hacking-techniques)
 - [Cheatsheets and Syntax:](https://github.com/themixedcoder/test/blob/main/README.md#cheatsheets-and-syntax))

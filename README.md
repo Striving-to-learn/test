@@ -27,14 +27,14 @@ This guide aims to provide easy-to-access resources for individuals interested i
 
 ## Hacking
 
-- [Null Byte](https://null-byte.wonderhowto.com/): Free website offering hacking tutorials and resources.
-- [Cybrary](https://www.cybrary.it/video/introduction-8/): Provides both free and paid courses on hacking and security.
-- [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html): Offers free hacking tutorials and resources.
-- [Guru99](https://www.guru99.com/): Provides tutorials on programming, machine learning, cybersecurity, and more.
-- [Cybercademy](https://cybercademy.org/resources/): A website that links to various cybersecurity resources.
-- [SecurityTube](http://www.securitytube.net/): Offers a range of hacking and security-related content.
-- [HackingLoops](https://www.hackingloops.com/): Provides tutorials and resources on hacking.
-- [Cyber Aces](https://www.cyberaces.org/): Offers free online cybersecurity courses.
+- [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
+- [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
+- [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html) Offers free hacking tutorials and resources.
+- [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.
+- [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
+- [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
+- [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
+- [Cyber Aces](https://www.cyberaces.org/) Offers free online cybersecurity courses.
 
 ## Programming
 

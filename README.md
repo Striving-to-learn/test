@@ -14,16 +14,16 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [PDFs](#pdfs)
 - [Courses](#courses)
 - [Youtubers](#Youtubers)
-- [[legal hacking sites](https://github.com/themixedcoder/test/blob/main/README.md#legal-pdfs-about-programming-networking-it-cybersecurity-and-penetration-testing)
-- [[Capture the Flag/Wargames:](https://github.com/themixedcoder/test/blob/main/README.md#capture-the-flagwargames)
-- [[Vulnerable Software:](https://github.com/themixedcoder/test/blob/main/README.md#vulnerable-software)
+- [legal hacking sites](https://github.com/themixedcoder/test/blob/main/README.md#legal-pdfs-about-programming-networking-it-cybersecurity-and-penetration-testing)
+- [Capture the Flag/Wargames:](https://github.com/themixedcoder/test/blob/main/README.md#capture-the-flagwargames)
+- [Vulnerable Software:](https://github.com/themixedcoder/test/blob/main/README.md#vulnerable-software)
 - [[Vulnerability Research](Vulnerability research)](https://github.com/themixedcoder/test/blob/main/README.md#vulnerability-research)
 - [Osint](#Osint)
 - [[References and Scripts](#References and Scripts)](https://github.com/themixedcoder/test/blob/main/README.md#references-and-scripts)
 - [Conferences](https://github.com/themixedcoder/test/blob/main/README.md#conferences)
 - [Blogs, Wikis, Magazines, and Forums](https://github.com/themixedcoder/test/blob/main/README.md#blogs-wikis-magazines-and-forums)
 - [Hacking Techniques](https://github.com/themixedcoder/test/blob/main/README.md#hacking-techniques)
-- [Cheatsheets and Syntax:](https://github.com/themixedcoder/test/blob/main/README.md#cheatsheets-and-syntax))
+- [Cheatsheets and Syntax:](https://github.com/themixedcoder/test/blob/main/README.md#cheatsheets-and-syntax)
 
 ## Hacking
 

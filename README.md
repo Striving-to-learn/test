@@ -14,16 +14,16 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [PDFs](#pdfs)
 - [Courses](#courses)
 - [Youtubers](Youtubers)
-- [legal hacking sites](legal hacking sites)
+- [legal hacking sites](#legal hacking sites)
 - [Capture the Flag/Wargames:](Capture the Flag/Wargames:)
 - [Vulnerable Software:](Vulnerable Software:)
 - [Vulnerability Research](Vulnerability research)
-- [Osint](Osint)
-- [References and Scripts](References and Scripts)
+- [Osint](#Osint)
+- [References and Scripts](#References and Scripts)
 - [Conferences:](Conferences:)
-- [[Blogs, Wikis, Magazines, and Forums](Blogs, Wikis, Magazines, and Forums)
-- [Hacking Techniques](Hacking Techniques)
-- [Cheatsheets and Syntax:](Cheatsheets and Syntax:)
+- [[Blogs, Wikis, Magazines, and Forums](#Blogs, Wikis, Magazines, and Forums)
+- [Hacking Techniques](#Hacking Techniques)
+- [Cheatsheets and Syntax:](#Cheatsheets and Syntax:)
 
 ## Hacking
 

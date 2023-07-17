@@ -13,7 +13,7 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [Certifications](#certifications)
 - [PDFs](#pdfs)
 - [Courses](#courses)
-- [Youtubers](Youtubers)
+- [Youtubers](#Youtubers)
 - [legal hacking sites](#legal hacking sites)
 - [Capture the Flag/Wargames:](Capture the Flag/Wargames:)
 - [Vulnerable Software:](Vulnerable Software:)

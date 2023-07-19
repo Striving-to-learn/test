@@ -139,7 +139,7 @@ Please note that pirating will not be supported, as many books are available for
 looking for resources in this section 
 #### Passwords and Hashes:
 * http://www.irongeek.com/i.php?page=videos/password-exploitation-class - Security and Password exploitation class
-* http://cirt.net/passwords - Tutorials to crack passwords (hashes)
+* http://cirt.net/passwords - Default Passwords for various vendors and software 
 * http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html - Tutorial on cracking MS SQL server passwords
 * http://www.foofus.net/~jmk/medusa/medusa-smbnt.html - Tutorial on cracking passwords using Medusa
 * http://www.foofus.net/?page_id=63 - Tutorial on cracking hashes using Medusa

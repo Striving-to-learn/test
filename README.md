@@ -1,5 +1,3 @@
-# Getting Started in Programming, IT, Hacking, and Networking Guide
-
 ## Introduction
 
 This guide aims to provide easy-to-access resources for individuals interested in learning more about programming, networking, ethical hacking, and bug bounty. Below, you will find organized links and resources related to each topic for your convenience.
@@ -137,6 +135,99 @@ This guide aims to provide easy-to-access resources for individuals interested i
 
 #### Wireless:
 * http://code.google.com/p/pyrit/
+
+## Getting Started 
+### Books and PDFs
+
+#### Legal PDFs about Programming, Networking, IT, Cybersecurity, and Penetration Testing
+
+- [Hacker High School](https://www.hackerhighschool.org/lessons.html#info1-1o)
+- [Free Security eBooks on GitHub](https://github.com/Hack-with-Github/Free-Security-eBooks)
+- [Free Programming eBooks on GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md)
+
+Please note that pirating will not be supported, as many books are available for free in a legal way.
+
+### Courses
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md): A JavaScript course that provides in-depth knowledge about JavaScript programming.
+- [Hoppers Roppers Academy](https://www.roppers.org/collections) Offers a collection of resources and courses related to cybersecurity and hacking.
+- [Hack The Box Academy](https://academy.hackthebox.eu/)  An educational platform by Hack The Box offering courses on various cybersecurity topics.
+- [Cyber Aces](https://www.cyberaces.org/) Offers free online cybersecurity courses.
+- [Springboard Cybersecurity Foundations](https://www.springboard.com/resources/learning-paths/cybersecurity-foundations/) A cybersecurity foundations course offered by Springboard.
+- [FutureLearn Introduction to Cybersecurity](https://www.futurelearn.com/courses/introduction-to-cyber-security)A course on introduction to cybersecurity offered on FutureLearn.
+- [Cryptocity Penetration Testing](http://pentest.cryptocity.net/)A website that provides resources and information related to penetration testing.
+- [Irongeek Network Sniffers Class](http://www.irongeek.com/i.php?page=videos/network-sniffers-class) Offers a class on network sniffers by Irongeek
+- [UCSB Computer Security](http://www.cs.ucsb.edu/~vigna/courses/cs279/)A computer security course offered by UCSB
+- [Stanford Cryptography](http://crypto.stanford.edu/cs142/)A course on cryptography from Stanford University.
+- [Stanford Network Security](http://crypto.stanford.edu/cs155/)A course on network security from Stanford University
+- [UCSD Network Security](http://cseweb.ucsd.edu/classes/wi09/cse227/)A network security course offered by UCSD
+- [Berkeley Computer Security](http://www-inst.eecs.berkeley.edu/~cs161/sp11/)A computer security course from UC Berkeley
+- [UCLA Security Talks](http://security.ucla.edu/pages/Security_Talks) Provides security talks and presentations from UCLA.Provides security talks and presentations from UCLA.
+- [RPI Computer Security] (http://www.cs.rpi.edu/academics/courses/spring10/csci4971/) A computer security course from Rensselaer Polytechnic Institute.
+- [Daniel Bernstein Cryptography](http://cr.yp.to/2004-494.html)Provides information on cryptography by Daniel Bernstein
+- [CMU Computer Security](http://www.ece.cmu.edu/~dbrumley/courses/18732-f09/)A computer security course from Carnegie Mellon University
+- [Aalto Network Security](https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot)A course on network security offered by Aalto University
+- [MIT Web Security](http://stuff.mit.edu/iap/2009/#websecurity)  Web Security Course given by the MIT University
+- [edX Introduction to Linux](https://www.edx.org/course/introduction-to-linux) Intro to Linux from The Linux Foundation
+-  [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
+- [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
+- [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html) Offers free hacking tutorials and resources.
+- [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.
+- [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
+- [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
+- [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
+
+### Educational Channels
+
+#### Hacking/Cybersecurity Youtubers:
+- [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ): Hacking hardware, cybersecurity news, hacking tech, and general hacking tutorials.
+- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): Ethical hacking, web application hacking, hardware tutorials, tech reviewer.
+- [Jackktutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA): Hacking tutorials, CTFS, Linux.
+- [Webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg): Hacking tutorials, CTFS, Linux.
+- [Sstec](https://www.youtube.com/c/SSTecTutorials/playlists): Hacking tutorials, CTFS, and projects.
+- [Hackhappy](https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA): Hacking tutorials, CTFS, and Linux.
+- [Derek Rook](https://www.youtube.com/c/DerekRook/videos): CTFS (Capture the Flags).
+- [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw): Programming, hacking tutorials, malware analysis, CTFS, Linux, and careers.
+- [Nullbyte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g): Hacking tutorials, cybersecurity for ethical hackers and programmers.
+- [Computerphile](https://www.youtube.com/user/Computerphile/videos): Programming, programming concepts, tech concepts, networking, programming and hacking, Linux.
+- [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q): Penetration testing, web application hacking tutorials, Linux, malware analysis.
+- [Nahamsec](https://www.youtube.com/c/Nahamsec/featured): Educational hacking and bug bounty videos and career advice.
+- [InsiderPHD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A): How to get started with bug bounty hunting.
+- [Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg): Interviews with cybersecurity figures.
+- [STOK](https://www.stokfredrik.com/): Bug bounty tutorials, vulnerability analysis, hacking tools, and hacking methodology.
+- [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): Hacking tutorials, CTFs/writeups, HackTheBox, web programming.
+- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q): Videos on tools, forensics, and incident response.
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA): Labs and capture-the-flag tutorials, HackTheBox, etc.
+- [Computerphile](https://www.youtube.com/user/Computerphile/about): Covers basic concepts and techniques.
+- [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w): Everything cybersecurity related.
+- [SecurityNow](https://twit.tv/shows/security-now): Cybercrime news, hacking, and web-application security.
+- [Infosec Institute](https://www.youtube.com/user/InfoSecInstitute/videos): Cybersecurity awareness.
+- [InfoSec Live](https://www.youtube.com/c/infoseclive): Everything cybersecurity related from tutorials to interviews.
+- [The PC Security Channel](https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg): Windows security, malware news, and tutorials.
+- [Peter Yaworski](https://www.youtube.com/user/yaworsk1?app=desktop): Web-application hacking tips and interviews.
+- [Bugcrowd](https://www.youtube.com/c/Bugcrowd): Bug bounty methodology and interviews.
+- [Simply Cyber](https://www.simplycyber.io/): Helps people with cybersecurity career development, has a daily cybersecurity news video.
+- [Network Chuck](https://networkchuck.com/): All-around cybersecurity and networking YouTuber.
+- [BlackPerl](https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ): Malware analysis, forensics, and incident response.
+- [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT): Technical cybersecurity conferences.
+- [DEFCON](https://www.youtube.com/user/DEFCONConference): Technical Cybersecurity Conference.
+
+#### Tech Reviewers/PC Building/Consumer Tech:
+- [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ): Tech reviewer, hardware tutorials.
+- [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips): Hardware tutorials, tech reviewer, PC building.
+- [ThioJoe](https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ): Hardware tutorials, tech reviewer, PC building.
+- [Elithecomputerguy](https://www.youtube.com/c/Elithecomputerguypage/playlists): Hardware tutorials, network tutorials, hardware reviewer, hacking tutorials, Linux tutorials, website development.
+- [Derek Banas](https://www.youtube.com/c/derekbanas/playlists): Tutorials on almost every kind of programming you can imagine.
+- [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw): Linux tutorials and stuff Linux related.
+- [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer): Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials.
+- Joe Collins: Everything Linux related, including tutorials and guides [YouTube](https://www.youtube.com/user/BadEditPro/playlists).
+
+#### Programmer YouTubers:
+- [thenewboston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back-end web development (Firebase, JSON server, React, Redux, MongoDB).
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists)
+- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Extensive web development videos
+
 ## Programming
 
 - [edX](https://www.edx.org/): Provides various free programming courses from universities.
@@ -183,6 +274,40 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [Professor Messer's Network+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnksQpejrRxNZoRSo0pcKXkG): Highly recommended network+ training course on YouTube.
 - [FreeCodeCamp Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw&t=7212s): Networking course by freeCodeCamp and Network+ preparation.
 - [Network Chuck Networking Course/CCNA Training](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P): Networking course by Network Chuck/CCNA training course.
+
+## Certifications
+
+### Hardware
+
+- [CompTIA A+](https://www.comptia.org/certifications/a): General hardware certification with a wide range of job offerings.
+- [Professor Messer A+ Course](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC): YouTube course by Professor Messer on A+ certification.
+- Apple Certified Macintosh Technician: Apple-specific hardware certification.
+
+### Networking
+
+- [CompTIA Network+](https://www.comptia.org/certifications/network): Networking certification.
+- [Professor Messer Network+ Course](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G): Free YouTube course by Professor Messer on Network+ certification.
+- [Udemy Network+ Course](https://www.udemy.com/course/comptia-network-n10-008/): Paid course on Udemy for Network+ certification.
+
+### Linux
+
+- CompTIA Linux+ Certification: Linux certification.
+
+### Security - Entry Level
+
+- CompTIA Security+: Entry-level security certification.
+- CEH: Certified Ethical Hacker certification.
+
+### Security - Management Level
+
+- CISSP: Certified Information Systems Security Professional.
+
+### Penetration Testing
+
+- CompTIA PenTest+: Certification focusing on penetration testing methodology.
+- PNPT: Hands-on exam from TheCyberMentor (Heath Adams) covering active directory external penetration testing and privilege escalation.
+- EJPT: Practical exam for penetration testing.
+- OSCP: Highly recognized penetration testing certification with a focus on manual testing techniques.
 
 ## Web Application Security
 
@@ -368,7 +493,7 @@ Content Management Systems (CMS) are popular platforms used to manage, create, a
 
 ### Magento:
 
--   **Magento**: An e-commerce-focused open-source CMS.
+-   **Magento**: An e-commerce focused open-source CMS.
 -   **Magento Security Best Practices**: Security best practices from Magento.
 
 ### Shopify:
@@ -404,130 +529,6 @@ Content Management Systems (CMS) are popular platforms used to manage, create, a
 ## Cybersecurity Tools
 ## Cloud Security
 ## Digital Forensics
-## Certifications
-
-### Hardware
-
-- [CompTIA A+](https://www.comptia.org/certifications/a): General hardware certification with a wide range of job offerings.
-- [Professor Messer A+ Course](https://www.youtube.com/watch?v=87t6P5ZHTP0&list=PLG49S3nxzAnnOmvg5UGVenB_qQgsh01uC): YouTube course by Professor Messer on A+ certification.
-- Apple Certified Macintosh Technician: Apple-specific hardware certification.
-
-### Networking
-
-- [CompTIA Network+](https://www.comptia.org/certifications/network): Networking certification.
-- [Professor Messer Network+ Course](https://www.youtube.com/watch?v=As6g6IXcVa4&list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G): Free YouTube course by Professor Messer on Network+ certification.
-- [Udemy Network+ Course](https://www.udemy.com/course/comptia-network-n10-008/): Paid course on Udemy for Network+ certification.
-
-### Linux
-
-- CompTIA Linux+ Certification: Linux certification.
-
-### Security - Entry Level
-
-- CompTIA Security+: Entry-level security certification.
-- CEH: Certified Ethical Hacker certification.
-
-### Security - Management Level
-
-- CISSP: Certified Information Systems Security Professional.
-
-### Penetration Testing
-
-- CompTIA PenTest+: Certification focusing on penetration testing methodology.
-- PNPT: Hands-on exam from TheCyberMentor (Heath Adams) covering active directory external penetration testing and privilege escalation.
-- EJPT: Practical exam for penetration testing.
-- OSCP: Highly recognized penetration testing certification with a focus on manual testing techniques.
-
-## Books and PDFs
-
-### Legal PDFs about Programming, Networking, IT, Cybersecurity, and Penetration Testing
-
-- [Hacker High School](https://www.hackerhighschool.org/lessons.html#info1-1o)
-- [Free Security eBooks on GitHub](https://github.com/Hack-with-Github/Free-Security-eBooks)
-- [Free Programming eBooks on GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md)
-
-Please note that pirating will not be supported, as many books are available for free in a legal way.
-
-## Courses
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md): A JavaScript course that provides in-depth knowledge about JavaScript programming.
-- [Hoppers Roppers Academy](https://www.roppers.org/collections) Offers a collection of resources and courses related to cybersecurity and hacking.
-- [Hack The Box Academy](https://academy.hackthebox.eu/)  An educational platform by Hack The Box offering courses on various cybersecurity topics.
-- [Cyber Aces](https://www.cyberaces.org/) Offers free online cybersecurity courses.
-- [Springboard Cybersecurity Foundations](https://www.springboard.com/resources/learning-paths/cybersecurity-foundations/) A cybersecurity foundations course offered by Springboard.
-- [FutureLearn Introduction to Cybersecurity](https://www.futurelearn.com/courses/introduction-to-cyber-security)A course on introduction to cybersecurity offered on FutureLearn.
-- [Cryptocity Penetration Testing](http://pentest.cryptocity.net/)A website that provides resources and information related to penetration testing.
-- [Irongeek Network Sniffers Class](http://www.irongeek.com/i.php?page=videos/network-sniffers-class) Offers a class on network sniffers by Irongeek
-- [UCSB Computer Security](http://www.cs.ucsb.edu/~vigna/courses/cs279/)A computer security course offered by UCSB
-- [Stanford Cryptography](http://crypto.stanford.edu/cs142/)A course on cryptography from Stanford University.
-- [Stanford Network Security](http://crypto.stanford.edu/cs155/)A course on network security from Stanford University
-- [UCSD Network Security](http://cseweb.ucsd.edu/classes/wi09/cse227/)A network security course offered by UCSD
-- [Berkeley Computer Security](http://www-inst.eecs.berkeley.edu/~cs161/sp11/)A computer security course from UC Berkeley
-- [UCLA Security Talks](http://security.ucla.edu/pages/Security_Talks) Provides security talks and presentations from UCLA.Provides security talks and presentations from UCLA.
-- [RPI Computer Security] (http://www.cs.rpi.edu/academics/courses/spring10/csci4971/) A computer security course from Rensselaer Polytechnic Institute.
-- [Daniel Bernstein Cryptography](http://cr.yp.to/2004-494.html)Provides information on cryptography by Daniel Bernstein
-- [CMU Computer Security](http://www.ece.cmu.edu/~dbrumley/courses/18732-f09/)A computer security course from Carnegie Mellon University
-- [Aalto Network Security](https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot)A course on network security offered by Aalto University
-- [MIT Web Security](http://stuff.mit.edu/iap/2009/#websecurity)  Web Security Course given by the MIT University
-- [edX Introduction to Linux](https://www.edx.org/course/introduction-to-linux) Intro to Linux from The Linux Foundation
--  [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
-- [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
-- [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html) Offers free hacking tutorials and resources.
-- [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.
-- [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
-- [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
-- [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
-
-## Educational Channels
-
-### Hacking/Cybersecurity Youtubers:
-- [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ): Hacking hardware, cybersecurity news, hacking tech, and general hacking tutorials.
-- [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): Ethical hacking, web application hacking, hardware tutorials, tech reviewer.
-- [Jackktutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA): Hacking tutorials, CTFS, Linux.
-- [Webpwnized](https://www.youtube.com/channel/UCPeJcqbi8v46Adk59plaaXg): Hacking tutorials, CTFS, Linux.
-- [Sstec](https://www.youtube.com/c/SSTecTutorials/playlists): Hacking tutorials, CTFS, and projects.
-- [Hackhappy](https://www.youtube.com/channel/UCVakgfsqxUDo2uTmv9MV_cA): Hacking tutorials, CTFS, and Linux.
-- [Derek Rook](https://www.youtube.com/c/DerekRook/videos): CTFS (Capture the Flags).
-- [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw): Programming, hacking tutorials, malware analysis, CTFS, Linux, and careers.
-- [Nullbyte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g): Hacking tutorials, cybersecurity for ethical hackers and programmers.
-- [Computerphile](https://www.youtube.com/user/Computerphile/videos): Programming, programming concepts, tech concepts, networking, programming and hacking, Linux.
-- [Hackersploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q): Penetration testing, web application hacking tutorials, Linux, malware analysis.
-- [Nahamsec](https://www.youtube.com/c/Nahamsec/featured): Educational hacking and bug bounty videos and career advice.
-- [InsiderPHD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A): How to get started with bug bounty hunting.
-- [Security Weekly](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg): Interviews with cybersecurity figures.
-- [STOK](https://www.stokfredrik.com/): Bug bounty tutorials, vulnerability analysis, hacking tools, and hacking methodology.
-- [Liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): Hacking tutorials, CTFs/writeups, HackTheBox, web programming.
-- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q): Videos on tools, forensics, and incident response.
-- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA): Labs and capture-the-flag tutorials, HackTheBox, etc.
-- [Computerphile](https://www.youtube.com/user/Computerphile/about): Covers basic concepts and techniques.
-- [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w): Everything cybersecurity related.
-- [SecurityNow](https://twit.tv/shows/security-now): Cybercrime news, hacking, and web-application security.
-- [Infosec Institute](https://www.youtube.com/user/InfoSecInstitute/videos): Cybersecurity awareness.
-- [InfoSec Live](https://www.youtube.com/c/infoseclive): Everything cybersecurity related from tutorials to interviews.
-- [The PC Security Channel](https://www.youtube.com/channel/UCKGe7fZ_S788Jaspxg-_5Sg): Windows security, malware news, and tutorials.
-- [Peter Yaworski](https://www.youtube.com/user/yaworsk1?app=desktop): Web-application hacking tips and interviews.
-- [Bugcrowd](https://www.youtube.com/c/Bugcrowd): Bug bounty methodology and interviews.
-- [Simply Cyber](https://www.simplycyber.io/): Helps people with cybersecurity career development, has a daily cybersecurity news video.
-- [Network Chuck](https://networkchuck.com/): All-around cybersecurity and networking YouTuber.
-- [BlackPerl](https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ): Malware analysis, forensics, and incident response.
-- [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT): Technical cybersecurity conferences.
-- [DEFCON](https://www.youtube.com/user/DEFCONConference): Technical Cybersecurity Conference.
-
-### Tech Reviewers/PC Building/Consumer Tech:
-- [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ): Tech reviewer, hardware tutorials.
-- [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips): Hardware tutorials, tech reviewer, PC building.
-- [ThioJoe](https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ): Hardware tutorials, tech reviewer, PC building.
-- [Elithecomputerguy](https://www.youtube.com/c/Elithecomputerguypage/playlists): Hardware tutorials, network tutorials, hardware reviewer, hacking tutorials, Linux tutorials, website development.
-- [Derek Banas](https://www.youtube.com/c/derekbanas/playlists): Tutorials on almost every kind of programming you can imagine.
-- [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw): Linux tutorials and stuff Linux related.
-- [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer): Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials.
-- Joe Collins: Everything Linux related, including tutorials and guides [YouTube](https://www.youtube.com/user/BadEditPro/playlists).
-
-### Programmer YouTubers:
-- [thenewboston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
-- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back-end web development (Firebase, JSON server, React, Redux, MongoDB).
-- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists)
-- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
-- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Extensive web development videos
 ## Osint 
 OSINT (Open Source Intelligence) -The practice of collecting information from published or otherwise publicly available sources 
 ### People and Organizational
@@ -570,9 +571,9 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * http://www.hackersforcharity.org/ghdb/ - Security knowledgebase
 ## Operating systems 
 * [Kali Linux](https://www.kali.org) is the most common operating system used for ethical hacking. 
-  Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and PNPT/TCM
+  Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and pnpt/tcm
 * [Parrot Security OS](http://www.parrotsec.org/) Similar to kali . easy to use but not as much support as Kali 
-* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, with a very steep learning curve but is still very powerful
+* [BlackArch Linux](http://www.blackarch.org/) very customizable version of Linux, a very steep learning curve but is still very powerful
 * For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
 
 ### ISOS
@@ -581,7 +582,7 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * [Windows 7 iso image](https://www.microsoft.com/en-us/software-download/windows7)
 
 ### Virtual machine software and virtualization
-* [VirtualBox](https://www.virtualbox.org/) windows mac and Linux
+* [VirtualBox](https://www.virtualbox.org/) windows mac and linux
 * [Vmware](https://www.vmware.com/) Vmware workstation windows mac and Linux
 * [Wine](https://www.winehq.org/) emulator for running windows applications on Linux, macOS, & BSD (not a virtual machine) 
   Instead of simulating internal Windows logic like a virtual machine or emulator, Wine translates Windows API calls into POSIX calls on the fly,
@@ -646,3 +647,6 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [http://www.phenoelit-us.org/whatSAP/index.html](http://www.phenoelit-us.org/whatSAP/index.html): SAP security exploit database.
 * [http://secunia.com/](http://secunia.com/): online IT security vulnerability resource.
 * [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities.
+
+
+

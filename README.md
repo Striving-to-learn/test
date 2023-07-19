@@ -99,10 +99,10 @@ Please note that pirating will not be supported, as many books are available for
 - [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides 
 #### Programming YouTubers:
 - [thenewboston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
-- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back-end web development (Firebase, JSON server, React, Redux, MongoDB)
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists) Front-end and Back-End web development tutorials
 - [Derek Banas](https://www.youtube.com/c/derekbanas/playlists) Tutorials on almost every kind of programming you can imagine.
-- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists)
-- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists) Python, Web Development, and various programming tutorials
+- [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) Programming Tutorials for various languages
 - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) Extensive web development videos
 #### Linux Youtubers
 - [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw) Linux tutorials and stuff Linux related.
@@ -110,13 +110,13 @@ Please note that pirating will not be supported, as many books are available for
 ## Hacking and Security Challenges
 ### Capture the Flag (CTF) Challenges:
 - [TryHackMe](https://tryhackme.com/): Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
-- [HackThisSite](https://www.hackthissite.org/): Focuses primarily on web exploit challenges.
-- [HackTheBox](https://www.hackthebox.eu/): Virtual machines available for download to practice hacking. Offers both beginner-friendly and advanced content.
-- [Juice Shop](https://juice-shop.herokuapp.com/#/): An intentionally vulnerable web application developed by OWASP for hands-on learning of web application security.
-- [HackerOne](https://www.hackerone.com/): Web hacking challenges and bug bounty program platform.
-- [CyberSecLabs](https://www.cyberseclabs.co.uk/): An online platform offering cybersecurity challenges and labs for hands-on practice and learning.
-- [WebScanTest](http://www.webscantest.com/): A website/application that allows users to test and analyze the security of web applications through vulnerability assessments and penetration testing.
-- [CrackMe](http://crackme.cenzic.com/Kelev/view/home.php): Small programs or applications designed to test a user's reverse engineering and software cracking skills.
+- [HackThisSite](https://www.hackthissite.org/) Focuses primarily on web exploit challenges.
+- [HackTheBox](https://www.hackthebox.eu/) Virtual machines available for download to practice hacking. Offers both beginner-friendly and advanced content.
+- [Juice Shop](https://juice-shop.herokuapp.com/#/) An intentionally vulnerable web application developed by OWASP for hands-on learning of web application security.
+- [HackerOne](https://www.hackerone.com/) Web hacking challenges and bug bounty program platform.
+- [CyberSecLabs](https://www.cyberseclabs.co.uk/) An online platform offering cybersecurity challenges and labs for hands-on practice and learning.
+- [WebScanTest](http://www.webscantest.com/) A website/application that allows users to test and analyze the security of web applications through vulnerability assessments and penetration testing.
+- [CrackMe](http://crackme.cenzic.com/Kelev/view/home.php) Contains various Small programs or applications to download designed to test a user's reverse engineering and software cracking skills.
 ### Bug Bounty Programs
 - [HackerOne](https://www.hackerone.com/)  One of the largest bug bounty platforms with diverse programs and well-known clients. Offers rewards for security vulnerabilities in various applications
 - [Bugcrowd](https://www.bugcrowd.com/) Crowdsourced platform that connects ethical hackers with companies seeking vulnerability assessments. Offers programs from startups to enterprises
@@ -136,7 +136,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
 
 #### Reverse Engineering & Malware:
-looking for resources on this section 
+looking for resources in this section 
 #### Passwords and Hashes:
 * http://www.irongeek.com/i.php?page=videos/password-exploitation-class - Security and Password exploitation class
 * http://cirt.net/passwords - Tutorials to crack passwords (hashes)
@@ -161,7 +161,7 @@ looking for resources on this section
 * https://www.base64encode.org/ - Decode base64 encoded hashes
 * https://www.base64encode.net/ - Tool to decode encoded hashes
 #### Wordlists:
-* [Seclists](https://github.com/danielmiessler/SecLists) one of the most well-known sets of wordlists. Referenced in many CTFS 
+* [Seclists](https://github.com/danielmiessler/SecLists) is one of the most well-known sets of wordlists. Referenced in many CTFS 
 * [Korelogic](http://contest.korelogic.com/wordlists.html)
 * [PacketStorm](http://packetstormsecurity.org/Crackers/wordlists/)
 * [Skullsecurity](http://www.skullsecurity.org/wiki/index.php/Passwords)

@@ -202,7 +202,7 @@ Please note that pirating will not be supported, as many books are available for
 
 ### Programmer YouTubers:
 - [thenewboston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
-- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back end web development (Firebase, JSON server, React, Redux, MongoDB).
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back-end web development (Firebase, JSON server, React, Redux, MongoDB).
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists)
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Extensive web development videos.
@@ -238,62 +238,62 @@ Please note that pirating will not be supported, as many books are available for
 - [McAfee Hacme](http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx), [Hacme Casino](http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx), [Hacme Shipping](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx), [Hacme Travel](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx)
 
 ## Vulnerability research
-* [https://www.shodan.io/](https://www.shodan.io/)
-* [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database) (google dorking)
-* [http://www.exploit-db.com/](http://www.exploit-db.com/)
-* [http://www.cvedetails.com/](http://www.cvedetails.com/)
-* [https://cxsecurity.com/](https://cxsecurity.com/)
-* [http://www.packetstormsecurity.org/](http://www.packetstormsecurity.org/)
-* [http://www.securityforest.com/wiki/index.php/Main_Page](http://www.securityforest.com/wiki/index.php/Main_Page)
-* [http://www.securityfocus.com/bid](http://www.securityfocus.com/bid)
-* [http://nvd.nist.gov/](http://nvd.nist.gov/)
-* [http://osvdb.org/](http://osvdb.org/)
-* [http://www.nullbyte.org.il/Index.html](http://www.nullbyte.org.il/Index.html)
-* [http://secdocs.lonerunners.net/](http://secdocs.lonerunners.net/)
-* [http://www.phenoelit-us.org/whatSAP/index.html](http://www.phenoelit-us.org/whatSAP/index.html)
-* [http://secunia.com/](http://secunia.com/)
-* [http://cve.mitre.org/](http://cve.mitre.org/)
+* [https://www.shodan.io/](https://www.shodan.io/): network monitoring and analytics platform. 
+* [https://www.exploit-db.com/google-hacking-database](https://www.exploit-db.com/google-hacking-database) (google dorking): exploit database search engine.
+* [http://www.exploit-db.com/](http://www.exploit-db.com/): exploited and vulnerable software vulnerabilities database. 
+* [http://www.cvedetails.com/](http://www.cvedetails.com/): comprehensive database of security vulnerabilities. 
+* [https://cxsecurity.com/](https://cxsecurity.com/): security vulnerability database.
+* [http://www.packetstormsecurity.org/](http://www.packetstormsecurity.org/): security attack and audit sources.
+* [http://www.securityforest.com/wiki/index.php/Main_Page](http://www.securityforest.com/wiki/index.php/Main_Page): security and penetration testing tips.
+* [http://www.securityfocus.com/bid](http://www.securityfocus.com/bid): Bugtraq discussion forum & vulnerability tracking system.
+* [http://nvd.nist.gov/](http://nvd.nist.gov/): U.S. National Vulnerability Database. 
+* [http://osvdb.org/](http://osvdb.org/): open source vulnerability database. 
+* [http://www.nullbyte.org.il/Index.html](http://www.nullbyte.org.il/Index.html): cyber security and hacking website.
+* [http://secdocs.lonerunners.net/](http://secdocs.lonerunners.net/): security document search engine.
+* [http://www.phenoelit-us.org/whatSAP/index.html](http://www.phenoelit-us.org/whatSAP/index.html): SAP security exploit database.
+* [http://secunia.com/](http://secunia.com/): online IT security vulnerability resource.
+* [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities.
 
 ## Osint 
 OSINT (Open Source Intelligence) -The practice of collecting information from published or otherwise publicly available sources 
 ### People and Organizational
-* http://www.spokeo.com/
-* http://www.123people.com/
-* http://www.xing.com/
-* http://www.zoominfo.com/search
-* http://pipl.com/
-* http://www.zabasearch.com/
-* http://www.searchbug.com/default.aspx
-* http://theultimates.com/
-* http://skipease.com/
-* http://addictomatic.com/
-* http://socialmention.com/
-* http://entitycube.research.microsoft.com/
-* http://www.yasni.com/
-* http://tweepz.com/
-* http://tweepsearch.com/
-* http://www.glassdoor.com/index.htm
-* http://www.jigsaw.com/
-* http://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp
-* http://www.tineye.com/
-* http://www.peekyou.com/
-* http://picfog.com/
-* http://twapperkeeper.com/index.php
+* http://www.spokeo.com/ - locate people using online search 
+* http://www.123people.com/ - search engine for people 
+* http://www.xing.com/ - online networking platform 
+* http://www.zoominfo.com/search - business information search 
+* http://pipl.com/ - search engine mainly for people  
+* http://www.zabasearch.com/ - people and business search engine 
+* http://www.searchbug.com/default.aspx - Contact and services search engine  
+* http://theultimates.com/ - people and business search 
+* http://skipease.com/ - public records search 
+* http://addictomatic.com/ - search topics and key phrases 
+* http://socialmention.com/ - see how often a phrase is mentioned 
+* http://entitycube.research.microsoft.com/ - link entities to other sources  
+* http://www.yasni.com/ - search engine of people and business 
+* http://tweepz.com/ - search and find Twitter profiles 
+* http://tweepsearch.com/ - Tweet search engine 
+* http://www.glassdoor.com/index.htm - search for employers and salaries 
+* http://www.jigsaw.com/ - Business information exchange 
+* http://searchwww.sec.gov/EDGARFSClient/jsp/EDGAR_MainAccess.jsp - public trading and financial documents 
+* http://www.tineye.com/ - search for images 
+* http://www.peekyou.com/ - online people search 
+* http://picfog.com/ - search engine for images 
+* http://twapperkeeper.com/index.php - Twitter archival search
 ### Infrastructure:
-* https://searchdns.netcraft.com/
-* https://securityheaders.com/
-* http://uptime.netcraft.com/
-* http://www.serversniff.net/
-* http://www.domaintools.com/
-* http://centralops.net/co/
-* http://hackerfantastic.com/
-* http://whois.webhosting.info/
-* https://www.ssllabs.com/ssldb/analyze.html
-* http://www.clez.net/
-* http://www.my-ip-neighbors.com/
-* https://www.shodan.io/
-* http://www.exploit-db.com/google-dorks/
-* http://www.hackersforcharity.org/ghdb/
+* https://searchdns.netcraft.com/ - DNS lookup provider
+* https://securityheaders.com/ - Secure HTTP response headers scanner
+* http://uptime.netcraft.com/ - Website uptime checking
+* http://www.serversniff.net/ - Website information checker
+* http://www.domaintools.com/ - Domain information provider
+* http://centralops.net/co/ - DNS and IP information lookup
+* http://hackerfantastic.com/ - Website security scanning
+* http://whois.webhosting.info/ - WHOIS lookup tool
+* https://www.ssllabs.com/ssldb/analyze.html - SSL security assessment
+* http://www.clez.net/ - IP address intelligence
+* http://www.my-ip-neighbors.com/ - IP relationships explorer
+* https://www.shodan.io/ - IoT device search engine
+* http://www.exploit-db.com/google-dorks/ - Vulnerability search engine
+* http://www.hackersforcharity.org/ghdb/ - Security knowledgebase
 ## Operating systems 
 * [Kali Linux](https://www.kali.org) is the most common operating system used for ethical hacking. 
   Best for all levels has the most tutorials and support and the largest community. Note various cybersecurity courses assume you are utilizing Kali including offensive security and pnpt/tcm
@@ -360,46 +360,47 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [Hackin9](http://hakin9.org/)
 
 
+
 ## Hacking Techniques
 ### Metasploit:
 
-* http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training
-* http://www.irongeek.com/i.php?page=videos/metasploit-class
-* http://www.ethicalhacker.net/component/option,com_smf/Itemid,54/topic,6158.0/
-* http://vimeo.com/16925188
-* http://www.ustream.tv/recorded/13396511
-* http://www.ustream.tv/recorded/13397426
-* http://www.ustream.tv/recorded/13398740
+* http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training - Exploiting with the power of the Metasploit framework
+* http://www.irongeek.com/i.php?page=videos/metasploit-class - Introduction to exploitation with Metasploit
+* http://www.ethicalhacker.net/component/option,com_smf/Itemid,54/topic,6158.0/ - Hacking tutorial with Metasploit
+* http://vimeo.com/16925188 - Exploiting with Metasploit
+* http://www.ustream.tv/recorded/13396511 - Introduction to Metasploit and its usage
+* http://www.ustream.tv/recorded/13397426 - Metasploit tutorials and examples 
+* http://www.ustream.tv/recorded/13398740 - Exploiting using Metasploit
 ### Reverse Engineering & Malware:
-* http://www.woodmann.com/TiGa/idaseries.html
-* http://www.binary-auditing.com/
-* http://visi.kenshoto.com/
-* http://www.radare.org/y/
-* http://www.offensivecomputing.net/
+* http://www.woodmann.com/TiGa/idaseries.html - Tutorials on Reverse Engineering with IDA Pro
+* http://www.binary-auditing.com/ - Reversing to find vulnerabilities in binaries 
+* http://visi.kenshoto.com/ - Reverse engineering for everyone
+* http://www.radare.org/y/ - Extensive reverse engineering framework 
+* http://www.offensivecomputing.net/ - Dissection of malware for analysis 
 ### Passwords and Hashes:
-* http://www.irongeek.com/i.php?page=videos/password-exploitation-class
-* http://cirt.net/passwords
-* http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html
-* http://www.foofus.net/~jmk/medusa/medusa-smbnt.html
-* http://www.foofus.net/?page_id=63
-* http://hashcrack.blogspot.com/
-* http://www.nirsoft.net/articles/saved_password_location.html
-* http://www.md5this.com/list.php?
-* http://www.virus.org/default-password
-* http://www.phenoelit-us.org/dpl/dpl.html
-* http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html
-*  http://nmap.org/ncrack/
-* http://www.foofus.net/~jmk/medusa/medusa.html
-* http://www.openwall.com/john/
-* http://ophcrack.sourceforge.net/
-* http://blog.0x3f.net/tool/keimpx-in-action/
-* http://code.google.com/p/keimpx/
-* http://sourceforge.net/projects/hashkill/
+* http://www.irongeek.com/i.php?page=videos/password-exploitation-class - Security and Password exploitation class
+* http://cirt.net/passwords - Tutorials to crack passwords (hashes)
+* http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html - Tutorial on cracking MS SQL server passwords
+* http://www.foofus.net/~jmk/medusa/medusa-smbnt.html - Tutorial on cracking passwords using Medusa
+* http://www.foofus.net/?page_id=63 - Tutorial on cracking hashes using Medusa
+* http://hashcrack.blogspot.com/ - Blog about cracking hashes and passwords 
+* http://www.nirsoft.net/articles/saved_password_location.html - How to find passwords and hashes in a system
+* http://www.md5this.com/list.php? - Collection of hashes and passwords 
+* http://www.virus.org/default-password - Default Passwords 
+* http://www.phenoelit-us.org/dpl/dpl.html - Online Hash cracker
+* http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html - Cloud-based Hash cracking
+*  http://nmap.org/ncrack/ - Cracking Hashes and Passwords with Ncrack
+* http://www.foofus.net/~jmk/medusa/medusa.html - Hacking tutorials using medusa
+* http://www.openwall.com/john/ - Password Cracking with John the Ripper
+* http://ophcrack.sourceforge.net/ - Tutorials on using Ophcrack
+* http://blog.0x3f.net/tool/keimpx-in-action/ - Hacking tutorials with Keimpx
+* http://code.google.com/p/keimpx/ - Detection and exploitation of SMB default credentials
+* http://sourceforge.net/projects/hashkill/ - Cracking hashes with GPU acceleration
 ### Password and hash cracking in the browser 
-* https://crackstation.net/
-* http://www.onlinehashcrack.com/
-* https://www.base64encode.org/
-* https://www.base64encode.net/
+* https://crackstation.net/ - Online website for hash cracking
+* http://www.onlinehashcrack.com/ - Tool for cracking various hash types
+* https://www.base64encode.org/ - Decode base64 encoded hashes
+* https://www.base64encode.net/ - Tool to decode encoded hashes
 ### Wordlists:
 * [Seclists] (https://github.com/danielmiessler/SecLists one of the most well-known sets of wordlists. Referenced in many CTFS 
 * [Korelogic](http://contest.korelogic.com/wordlists.html)
@@ -411,59 +412,59 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://www.sans.org/reading_room/whitepapers/testing/crack-pass-hash_33219
 * http://carnal0wnage.blogspot.com/2008/03/using-pash-hash-toolkit.html
 ### MiTM (Man in the Middle) :
-* http://www.giac.org/certified_professionals/practicals/gsec/0810.php
-* http://www.linuxsecurity.com/docs/PDF/dsniff-n-mirror.pdf
-* http://www.cs.uiuc.edu/class/sp08/cs498sh/slides/dsniff.pdf
-* http://www.techvibes.com/blog/a-hackers-story-let-me-tell-you-just-how-easily-i-can-steal-your-personal-data
-* http://www.mindcenter.net/uploads/ECCE101.pdf
-* http://toorcon.org/pres12/3.pdf
-* http://media.techtarget.com/searchUnifiedCommunications/downloads/Seven_Deadliest_UC_Attacks_Ch3.pdf
-* http://packetstormsecurity.org/papers/wireless/cracking-air.pdf
-* http://www.blackhat.com/presentations/bh-europe-03/bh-europe-03-valleri.pdf
-* http://www.oact.inaf.it/ws-ssri/Costa.pdf
-* http://www.defcon.org/images/defcon-17/dc-17-presentations/defcon-17-sam_bowne-hijacking_web_2.0.pdf
-* http://mcafeeseminar.com/focus/downloads/Live_Hacking.pdf
-* http://www.seanobriain.com/docs/PasstheParcel-MITMGuide.pdf
-* http://www.more.net/sites/default/files/2010JohnStrandKeynote.pdf
-* http://www.leetupload.com/database/Misc/Papers/Asta%20la%20Vista/18.Ettercap_Spoof.pdf
-* http://bandwidthco.com/whitepapers/netforensics/arp/EtterCap%20ARP%20Spoofing%20&%20Beyond.pdf
-* http://bandwidthco.com/whitepapers/netforensics/arp/Fun%20With%20EtterCap%20Filters.pdf
-* http://www.iac.iastate.edu/iasg/libarchive/0910/The_Magic_of_Ettercap/The_Magic_of_Ettercap.pdf
-* http://articles.manugarg.com/arp_spoofing.pdf
-* http://academy.delmar.edu/Courses/ITSY2430/eBooks/Ettercap(ManInTheMiddleAttack-tool).pdf
-* http://www.ucci.it/docs/ICTSecurity-2004-26.pdf
-* http://web.mac.com/opticrealm/iWeb/asurobot/My%20Cyber%20Attack%20Papers/My%20Cyber%20Attack%20Papers_files/ettercap_Nov_6_2005-1.pdf
-* http://blog.spiderlabs.com/2010/12/thicknet.html
-* http://www.hackyeah.com/2010/10/ettercap-filters-with-metasploit-browser_autopwn/
-* http://www.go4expert.com/forums/showthread.php?t=11842
-* http://www.irongeek.com/i.php?page=security/ettercapfilter
-* http://openmaniak.com/ettercap_filter.php
-* http://www.irongeek.com/i.php?page=videos/dns-spoofing-with-ettercap-pharming
-* http://www.irongeek.com/i.php?page=videos/ettercap-plugins-find-ip-gw-discover-isolate
-* http://www.irongeek.com/i.php?page=videos/ettercapfiltervid1
-* http://spareclockcycles.org/2010/06/10/sergio-proxy-released/
+* http://www.giac.org/certified_professionals/practicals/gsec/0810.php - GIAC Security Essentials challenge exam URL.
+* http://www.linuxsecurity.com/docs/PDF/dsniff-n-mirror.pdf - dsniff & Network Mirroring Overview PDF.
+* http://www.cs.uiuc.edu/class/sp08/cs498sh/slides/dsniff.pdf - dsniff Slides PDF.
+* http://www.techvibes.com/blog/a-hackers-story-let-me-tell-you-just-how-easily-i-can-steal-your-personal-data - Hackers Story blog.
+* http://www.mindcenter.net/uploads/ECCE101.pdf - Understanding Network Attacks PDF.
+* http://toorcon.org/pres12/3.pdf - Exploiting Bluetooth Devices presentation.
+* http://media.techtarget.com/searchUnifiedCommunications/downloads/Seven_Deadliest_UC_Attacks_Ch3.pdf - 7 Deadliest UC Attacks PDF.
+* http://packetstormsecurity.org/papers/wireless/cracking-air.pdf - Cracking the Wireless Encryption PDF.
+* http://www.blackhat.com/presentations/bh-europe-03/bh-europe-03-valleri.pdf - Network Attack with Cisco IOS presentation.
+* http://www.oact.inaf.it/ws-ssri/Costa.pdf - Wireless Network Hacking PDF.
+* http://www.defcon.org/images/defcon-17/dc-17-presentations/defcon-17-sam_bowne-hijacking_web_2.0.pdf - Hijacking Web 2.0 presentation.
+* http://mcafeeseminar.com/focus/downloads/Live_Hacking.pdf - Live Hacking from McAfee PDF.
+* http://www.seanobriain.com/docs/PasstheParcel-MITMGuide.pdf - Pass The Parcel MITM Guide PDF.
+* http://www.more.net/sites/default/files/2010JohnStrandKeynote.pdf - Keynote by John Strand PDF.
+* http://www.leetupload.com/database/Misc/Papers/Asta%20la%20Vista/18.Ettercap_Spoof.pdf - Ettercap ARP Spoofing paper.
+* http://bandwidthco.com/whitepapers/netforensics/arp/EtterCap%20ARP%20Spoofing%20&%20Beyond.pdf - Ettercap ARP Spoofing & Beyond PDF.
+* http://bandwidthco.com/whitepapers/netforensics/arp/Fun%20With%20EtterCap%20Filters.pdf - Fun with Ettercap Filters PDF.
+* http://www.iac.iastate.edu/iasg/libarchive/0910/The_Magic_of_Ettercap/The_Magic_of_Ettercap.pdf - The Magic of Ettercap PDF.
+* http://articles.manugarg.com/arp_spoofing.pdf - ARP Spoofing paper.
+* http://academy.delmar.edu/Courses/ITSY2430/eBooks/Ettercap(ManInTheMiddleAttack-tool).pdf - Ettercap Man in the Middle Attack-tool PDF.
+* http://www.ucci.it/docs/ICTSecurity-2004-26.pdf - ICT Security 2004 PDF.
+* http://web.mac.com/opticrealm/iWeb/asurobot/My%20Cyber%20Attack%20Papers/My%20Cyber%20Attack%20Papers_files/ettercap_Nov_6_2005-1.pdf - Ettercap Nov 6 2005 PDF.
+* http://blog.spiderlabs.com/2010/12/thicknet.html - ThickNet blog post.
+* http://www.hackyeah.com/2010/10/ettercap-filters-with-metasploit-browser_autopwn/ - Ettercap filters with Metasploit blog post.
+* http://www.go4expert.com/forums/showthread.php?t=11842 - Ettercap forum post.
+* http://www.irongeek.com/i.php?page=security/ettercapfilter - Ettercap Filter Tutorial page.
+* http://openmaniak.com/ettercap_filter.php - Ettercap Filter Tutorial.
+* http://www.irongeek.com/i.php?page=videos/dns-spoofing-with-ettercap-pharming - DNS Spoofing with Ettercap Pharming video.
+* http://www.irongeek.com/i.php?page=videos/ettercap-plugins-find-ip-gw-discover-isolate - Ettercap Plugins video.
+* http://www.irongeek.com/i.php?page=videos/ettercapfiltervid1 - Tutorial on Ettercap Filters video.
+* http://spareclockcycles.org/2010/06/10/sergio-proxy-released/ - Release of Sergio Proxy blog post.
 
-### Google Hacking and Dorking: 
-* http://www.stachliu.com/index.php/resources/tools/google-hacking-diggity-project/
-* http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads
-* http://sqid.rubyforge.org/#next
-* http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html
+### Google Hacking and Dorking:
+* http://www.stachliu.com/index.php/resources/tools/google-hacking-diggity-project/ - Google Hacking and Dorking software
+* http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads - Search engine vulnerability assessment
+* http://sqid.rubyforge.org/#next - SQL Injection Digger
+* http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html - Python dork scanning tool
 
 ### Web:
-* http://www.bindshell.net/tools/beef
-* http://blindelephant.sourceforge.net/
-* http://xsser.sourceforge.net/
-* http://sourceforge.net/projects/rips-scanner/
-* http://www.divineinvasion.net/authforce/
-* http://andlabs.org/tools.html#sotf
-* http://www.taddong.com/docs/Browser_Exploitation_for_Fun&Profit_Taddong-RaulSiles_Nov2010_v1.1.pdf
-* http://carnal0wnage.blogspot.com/2007/07/using-sqid-sql-injection-digger-to-look.html
-* http://code.google.com/p/pinata-csrf-tool/
-* http://xsser.sourceforge.net/#intro
-* http://www.contextis.co.uk/resources/tools/clickjacking-tool/
-* http://packetstormsecurity.org/files/view/69896/unicode-fun.txt
-* http://sourceforge.net/projects/ws-attacker/files/
-* https://github.com/koto/squid-imposter
+* http://www.bindshell.net/tools/beef - Browser Exploitation Framework
+* http://blindelephant.sourceforge.net/ - Scanner for known vulnerable web apps
+* http://xsser.sourceforge.net/ - Cross-site Scripting attack tool
+* http://sourceforge.net/projects/rips-scanner/ - Scanner for vulnerable php apps
+* http://www.divineinvasion.net/authforce/ - Password cracking tool
+* http://andlabs.org/tools.html#sotf - Software exploitation toolkit
+* http://www.taddong.com/docs/Browser_Exploitation_for_Fun&Profit_Taddong-RaulSiles_Nov2010_v1.1.pdf - Browser attack guide
+* http://carnal0wnage.blogspot.com/2007/07/using-sqid-sql-injection-digger-to-look.html - SQL Injection Digger search guide
+* http://code.google.com/p/pinata-csrf-tool/ - Cross-Site Request Forgery exploration and exploitation tool
+* http://xsser.sourceforge.net/#intro - Cross-site Scripting attack tool
+* http://www.contextis.co.uk/resources/tools/clickjacking-tool/ - Clickjacking attack tool
+* http://packetstormsecurity.org/files/view/69896/unicode-fun.txt - Unicode exploitation guide
+* http://sourceforge.net/projects/ws-attacker/files/ - Web security testing framework
+* https://github.com/koto/squid-imposter - SSL impostering for MITM attacks
 ####  SQLi: (SQL injection ) 
 
 * http://pentestmonkey.net/blog/mssql-sql-injection-cheat-sheet/
@@ -508,24 +509,24 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 
 #### LFI/RFI:
 
-* http://pastie.org/840199
-* http://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/
-* http://www.notsosecure.com/folder2/2010/08/20/lfi-code-exec-remote-root/?utm_source=twitterfeed&utm_medium=twitter
-* http://labs.neohapsis.com/2008/07/21/local-file-inclusion-%E2%80%93-tricks-of-the-trade/
-* http://www.digininja.org/blog/when_all_you_can_do_is_read.php
+* http://pastie.org/840199 - Online source code for an LFI/RFI vulnerability
+* http://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/ - Exploring PHP file inclusion vulnerabilities 
+* http://www.notsosecure.com/folder2/2010/08/20/lfi-code-exec-remote-root/?utm_source=twitterfeed&utm_medium=twitter - Executing remote root on LFI 
+* http://labs.neohapsis.com/2008/07/21/local-file-inclusion-%E2%80%93-tricks-of-the-trade/ - Tips and tricks for LFI 
+* http://www.digininja.org/blog/when_all_you_can_do_is_read.php - Understanding file-access denial exploits
 
 #### XSS: (Cross-site Scripting) 
 
-* http://www.infosecwriters.com/hhworld/hh8/csstut.htm
-* http://www.technicalinfo.net/papers/CSS.html
-* http://msmvps.com/blogs/alunj/archive/2010/07/07/1773441.aspx
-* http://forum.intern0t.net/web-hacking-war-games/112-cross-site-scripting-attack-defense-guide.html
-* https://media.blackhat.com/bh-eu-10/presentations/Lindsay_Nava/BlackHat-EU-2010-Lindsay-Nava-IE8-XSS-Filters-slides.pdf
-* http://sirdarckcat.blogspot.com/2009/08/our-favorite-xss-filters-and-how-to.html
-* http://www.securityaegis.com/filter-evasion-houdini-on-the-wire/
-* http://heideri.ch/jso/#javascript
-* http://www.reddit.com/r/xss/
-* http://sla.ckers.org/forum/list.php?2
+* http://www.infosecwriters.com/hhworld/hh8/csstut.htm - Cross-site scripting tutorial
+* http://www.technicalinfo.net/papers/CSS.html - Basic tutorial on XSS
+* http://msmvps.com/blogs/alunj/archive/2010/07/07/1773441.aspx - Exploiting maliciously crafted URLs
+* http://forum.intern0t.net/web-hacking-war-games/112-cross-site-scripting-attack-defense-guide.html - Comprehensive guide to XSS
+* https://media.blackhat.com/bh-eu-10/presentations/Lindsay_Nava/BlackHat-EU-2010-Lindsay-Nava-IE8-XSS-Filters-slides.pdf - IE8 XSS filters presentation
+* http://sirdarckcat.blogspot.com/2009/08/our-favorite-xss-filters-and-how-to.html - Filtering & avoiding XSS
+* http://www.securityaegis.com/filter-evasion-houdini-on-the-wire/ - Evading filters in XSS
+* http://heideri.ch/jso/#javascript - Javascript-based XSS cheat sheet
+* http://www.reddit.com/r/xss/ - Subreddit for XSS
+* http://sla.ckers.org/forum/list.php?2 - Forum for XSS discussions
 
 #### Coldfusion:
 
@@ -610,13 +611,13 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://code.google.com/p/fuzzdb/
 * http://www.owasp.org/index.php/Category:OWASP_Fuzzing_Code_Database#tab=Statements
 #### Scanners:
-* http://w3af.sourceforge.net/
-* http://code.google.com/p/skipfish/
-* http://sqlmap.sourceforge.net/
-* http://sqid.rubyforge.org/#next
-* http://packetstormsecurity.org/UNIX/scanners/XSSscan.py.txt
-* http://code.google.com/p/fimap/wiki/WindowsAttack
-* http://code.google.com/p/fm-fsf/
+* http://w3af.sourceforge.net/ - Open source web application security scanner. 
+* http://code.google.com/p/skipfish/ - Automated web application security audit tool. 
+* http://sqlmap.sourceforge.net/ - Automated SQL injection and database takeover tool. 
+* http://sqid.rubyforge.org/#next - Web application security library. 
+* http://packetstormsecurity.org/UNIX/scanners/XSSscan.py.txt - Cross Site Scripting scanner. 
+* http://code.google.com/p/fimap/wiki/WindowsAttack - Unauthorized web server access scanner.
+* http://code.google.com/p/fm-fsf/ - Web vulnerability scanner.
 
 #### Burp:
 * http://www.sans.org/reading_room/whitepapers/testing/fuzzing-approach-credentials-discovery-burp-intruder_33214
@@ -633,15 +634,14 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://websecuritytool.codeplex.com/documentation?referringTitle=Home
 * http://translate.google.com/translate?hl=en&sl=es&u=http://xss.codeplex.com/releases/view/43170&prev=/search%3Fq%3Dhttp://www.hackingeek.com/2010/08/x5s-encuentra-fallos-xss-lfi-rfi-en-tus.html%26hl%3Den&rurl=translate.google.com&twu=1
 #### Net Scanners and Scripts:
-* http://nmap.org/
-* http://asturio.gmxhome.de/software/sambascan2/i.html
-* http://www.softperfect.com/products/networkscanner/
-* http://www.openvas.org/
-* http://tenable.com/products/nessus
-* http://www.rapid7.com/vulnerability-scanner.jsp
-* http://www.eeye.com/products/retina/community 
+* http://nmap.org/ - Network mapping and port scanning tool
+* http://asturio.gmxhome.de/software/sambascan2/i.html - Windows-based shell script for discovering LanMan/NTLM authentication information
+* http://www.softperfect.com/products/networkscanner/ - Network scanner tool
+* http://www.openvas.org/ - Vulnerability scanner and management
+* http://tenable.com/products/nessus - Vulnerability scanner and management
+* http://www.rapid7.com/vulnerability-scanner.jsp - Vulnerability scanner and management
+* http://www.eeye.com/products/retina/community - Vulnerability scanner
 ## Cheatsheets and Syntax:
-* http://cirt.net/ports_dl.php?export=services
-* http://www.cheat-sheets.org/
-* http://blog.securitymonks.com/2009/08/15/whats-in-your-folder-security-cheat-sheets/
-
+* http://cirt.net/ports_dl.php?export=services - Lists of port services definitions
+* http://www.cheat-sheets.org/ - Compilation of cheatsheets for a variety of topics
+* http://blog.securitymonks.com/2009/08/15/whats-in-your-folder-security-cheat-sheets/ - Collection of security-related cheatsheets

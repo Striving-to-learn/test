@@ -11,25 +11,18 @@ This guide aims to provide easy-to-access resources for individuals interested i
 - [Linux](https://github.com/themixedcoder/test/blob/main/README.md#linux)
 - [Networking](#networking)
 - [Certifications](#certifications)
-
 - [Osint](#Osint)
 - [References and Cheat sheets](https://github.com/themixedcoder/test/blob/main/README.md#references-and-cheat-sheets)
 - [Communities and Conferences](https://github.com/themixedcoder/test/blob/main/README.md#communities-and-conferences)
 - [Blogs, Wikis, Magazines, and Forums](https://github.com/themixedcoder/test/blob/main/README.md#blogs-wikis-magazines-and-forums)
 - [Security Research](https://github.com/themixedcoder/test/blob/main/README.md#security-research)
-
-
 ## Getting Started 
 ### Books and PDFs
-
 #### Legal PDFs about Programming, Networking, IT, Cybersecurity, and Penetration Testing
-
 - [Hacker High School](https://www.hackerhighschool.org/lessons.html#info1-1o)
 - [Free Security eBooks on GitHub](https://github.com/Hack-with-Github/Free-Security-eBooks)
 - [Free Programming eBooks on GitHub](https://github.com/EbookFoundation/free-programming-books/blob/main/casts/free-podcasts-screencasts-en.md)
-
 Please note that pirating will not be supported, as many books are available for free in a legal way.
-
 ### Courses
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md): A JavaScript course that provides in-depth knowledge about JavaScript programming.
 - [Hoppers Roppers Academy](https://www.roppers.org/collections) Offers a collection of resources and courses related to cybersecurity and hacking.
@@ -58,9 +51,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Cybercademy](https://cybercademy.org/resources/) A website that links to various cybersecurity resources.
 - [SecurityTube](http://www.securitytube.net/) Offers a range of hacking and security-related content.
 - [HackingLoops](https://www.hackingloops.com/) Provides tutorials and resources on hacking.
-
 ### Educational Channels
-
 #### Hacking/Cybersecurity Youtubers:
 - [Hak5](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ): Hacking hardware, cybersecurity news, hacking tech, and general hacking tutorials.
 - [The Cyber Mentor](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw): Ethical hacking, web application hacking, hardware tutorials, tech reviewer.
@@ -93,7 +84,6 @@ Please note that pirating will not be supported, as many books are available for
 - [BlackPerl](https://www.youtube.com/channel/UCqVIVdF5lwb3uMhiS0XM4XQ): Malware analysis, forensics, and incident response.
 - [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT): Technical cybersecurity conferences.
 - [DEFCON](https://www.youtube.com/user/DEFCONConference): Technical Cybersecurity Conference.
-
 #### Tech Reviewers/PC Building/Consumer Tech:
 - [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ): Tech reviewer, hardware tutorials.
 - [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips): Hardware tutorials, tech reviewer, PC building.
@@ -103,17 +93,14 @@ Please note that pirating will not be supported, as many books are available for
 - [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw): Linux tutorials and stuff Linux related.
 - [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer): Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials.
 - Joe Collins: Everything Linux related, including tutorials and guides [YouTube](https://www.youtube.com/user/BadEditPro/playlists).
-
 #### Programmer YouTubers:
 - [thenewboston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back-end web development (Firebase, JSON server, React, Redux, MongoDB).
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists)
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Extensive web development videos
-
 ## Hacking and Security Challenges
 ### Capture the Flag (CTF) Challenges:
-
 - [TryHackMe](https://tryhackme.com/): Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
 - [HackThisSite](https://www.hackthissite.org/): Focuses primarily on web exploit challenges.
 - [HackTheBox](https://www.hackthebox.eu/): Virtual machines available for download to practice hacking. Offers both beginner-friendly and advanced content.
@@ -122,19 +109,13 @@ Please note that pirating will not be supported, as many books are available for
 - [CyberSecLabs](https://www.cyberseclabs.co.uk/): An online platform offering cybersecurity challenges and labs for hands-on practice and learning.
 - [WebScanTest](http://www.webscantest.com/): A website/application that allows users to test and analyze the security of web applications through vulnerability assessments and penetration testing.
 - [CrackMe](http://crackme.cenzic.com/Kelev/view/home.php): Small programs or applications designed to test a user's reverse engineering and software cracking skills.
-
 ### Vulnerable Software:
-
 - [VulnHub](https://www.vulnhub.com/): Virtual machines available for download to practice hacking.
 - [Exploit-DB](http://www.exploit-db.com/webapps/): Database of exploits and vulnerability information.
 - [OWASP SiteGenerator](http://www.owasp.org/index.php/Owasp_SiteGenerator): A project by OWASP that helps generate vulnerable web applications for learning and testing web application security.
 - [McAfee Hacme](http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx), [Hacme Casino](http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx), [Hacme Shipping](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx), [Hacme Travel](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx): Deliberately vulnerable web applications developed by McAfee for practicing security testing and identifying vulnerabilities.
 - [OldApps](http://www.oldapps.com/): Provides archived versions of software applications for compatibility or nostalgic purposes.
 - [OldVersion](http://www.oldversion.com/): Provides archived versions of software applications for compatibility or nostalgic purposes.
-
-
-
-
 ### Hacking Techniques
 #### Metasploit:
 * http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training - Exploiting with the power of the Metasploit framework
@@ -220,12 +201,9 @@ Please note that pirating will not be supported, as many books are available for
 * http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads - Search engine vulnerability assessment
 * http://sqid.rubyforge.org/#next - SQL Injection Digger
 * http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html - Python dork scanning tool
-
 #### Wireless:
 * http://code.google.com/p/pyrit/
-
 ## Programming
-
 - [edX](https://www.edx.org/): Provides various free programming courses from universities.
 - [freeCodeCamp](https://www.freecodecamp.org/): A free website for learning web development and Python.
 - [Udemy](https://www.udemy.com/): Offers career training courses, some of which are free.

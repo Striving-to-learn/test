@@ -135,31 +135,31 @@ Please note that pirating will not be supported, as many books are available for
 - [Metasploit Exploitation Framework](http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training) - Exploiting with the power of the Metasploit framework
 - [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
 
-#### Reverse Engineering & Malware:
-looking for resources in this section 
-#### Passwords and Hashes:
-* http://www.irongeek.com/i.php?page=videos/password-exploitation-class - Security and Password exploitation class
-* http://cirt.net/passwords - Default Passwords for various vendors and software 
-* http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html - Tutorial on cracking MS SQL server passwords
-* http://www.foofus.net/~jmk/medusa/medusa-smbnt.html - Tutorial on cracking passwords using Medusa
-* http://www.foofus.net/?page_id=63 - Tutorial on cracking hashes using Medusa
-* http://hashcrack.blogspot.com/ - Blog about cracking hashes and passwords 
-* http://www.nirsoft.net/articles/saved_password_location.html - How to find passwords and hashes in a system
-* http://www.virus.org/default-password - Default Passwords 
-* http://www.phenoelit-us.org/dpl/dpl.html - Online Hash cracker
-* http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html - Cloud-based Hash cracking
-*  http://nmap.org/ncrack/ - Cracking Hashes and Passwords with Ncrack
-* http://www.foofus.net/~jmk/medusa/medusa.html - Hacking tutorials using medusa
-* http://www.openwall.com/john/ - Password Cracking with John the Ripper
-* http://ophcrack.sourceforge.net/ - Tutorials on using Ophcrack
-* http://blog.0x3f.net/tool/keimpx-in-action/ - Hacking tutorials with Keimpx
-* http://code.google.com/p/keimpx/ - Detection and exploitation of SMB default credentials
-* http://sourceforge.net/projects/hashkill/ - Cracking hashes with GPU acceleration
-#### Password and hash cracking in the browser 
-* https://crackstation.net/ - Online website for hash cracking
-* http://www.onlinehashcrack.com/ - Tool for cracking various hash types
-* https://www.base64encode.org/ - Decode base64 encoded hashes
-* https://www.base64encode.net/ - Tool to decode encoded hashes
+#### Password and Hash Cracking Tutorials:
+- [Security and Password Exploitation Class](http://www.irongeek.com/i.php?page=videos/password-exploitation-class)
+- [Default Passwords for Various Vendors and Software](http://cirt.net/passwords)
+- [Tutorial on Cracking MS SQL Server Passwords](http://sinbadsecurity.blogspot.com/2008/10/ms-sql-server-password-recovery.html)
+- [Tutorial on Cracking Passwords Using Medusa](http://www.foofus.net/~jmk/medusa/medusa-smbnt.html)
+- [Tutorial on Cracking Hashes Using Medusa](http://www.foofus.net/?page_id=63)
+- [Blog About Cracking Hashes and Passwords](http://hashcrack.blogspot.com/)
+- [How to Find Passwords and Hashes in a System](http://www.nirsoft.net/articles/saved_password_location.html)
+- [Default Passwords](http://www.virus.org/default-password)
+- [Online Hash Cracker](http://www.phenoelit-us.org/dpl/dpl.html)
+- [Cloud-Based Hash Cracking](http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html)
+- [Cracking Hashes and Passwords with Ncrack](http://nmap.org/ncrack/)
+- [Hacking Tutorials Using Medusa](http://www.foofus.net/~jmk/medusa/medusa.html)
+- [Password Cracking with John the Ripper](http://www.openwall.com/john/)
+- [Tutorials on Using Ophcrack](http://ophcrack.sourceforge.net/)
+- [Hacking Tutorials with Keimpx](http://blog.0x3f.net/tool/keimpx-in-action/)
+- [Detection and Exploitation of SMB Default Credentials](http://code.google.com/p/keimpx/)
+- [Cracking Hashes with GPU Acceleration](http://sourceforge.net/projects/hashkill/)
+
+#### Password and Hash Cracking in the Browser:
+- [Online Website for Hash Cracking](https://crackstation.net/)
+- [Tool for Cracking Various Hash Types](http://www.onlinehashcrack.com/)
+- [Decode Base64 Encoded Hashes](https://www.base64encode.org/)
+- [Tool to Decode Encoded Hashes](https://www.base64encode.net/)
+
 #### Wordlists:
 * [Seclists](https://github.com/danielmiessler/SecLists) is one of the most well-known sets of wordlists. Referenced in many CTFS 
 * [Korelogic](http://contest.korelogic.com/wordlists.html)

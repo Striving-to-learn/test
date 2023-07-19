@@ -44,7 +44,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Aalto Network Security](https://noppa.tkk.fi/noppa/kurssi/t-110.6220/luennot)A course on network security offered by Aalto University
 - [MIT Web Security](http://stuff.mit.edu/iap/2009/#websecurity)  Web Security Course given by the MIT University
 - [edX Introduction to Linux](https://www.edx.org/course/introduction-to-linux) Intro to Linux from The Linux Foundation
--  [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
+- [Null Byte](https://null-byte.wonderhowto.com/) Free website offering hacking tutorials and resources.
 - [Cybrary](https://www.cybrary.it/video/introduction-8/) Provides both free and paid courses on hacking and security.
 - [BreakTheSecurity](http://breakthesecurity.cysecurity.org/2011/08/hacking-basics-hacking-and-security-tutorials-index.html) Offers free hacking tutorials and resources.
 - [Guru99](https://www.guru99.com/) Provides tutorials on programming, machine learning, cybersecurity, and more.

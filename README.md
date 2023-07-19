@@ -128,13 +128,9 @@ Please note that pirating will not be supported, as many books are available for
 - [OldVersion](http://www.oldversion.com/): Provides archived versions of software applications for compatibility or nostalgic purposes.
 ### Hacking Techniques
 #### Metasploit:
-* http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training - Exploiting with the power of the Metasploit framework
-* http://www.irongeek.com/i.php?page=videos/metasploit-class - Introduction to exploitation with Metasploit
-* http://www.ethicalhacker.net/component/option,com_smf/Itemid,54/topic,6158.0/ - Hacking tutorial with Metasploit
-* http://vimeo.com/16925188 - Exploiting with Metasploit
-* http://www.ustream.tv/recorded/13396511 - Introduction to Metasploit and its usage
-* http://www.ustream.tv/recorded/13397426 - Metasploit tutorials and examples 
-* http://www.ustream.tv/recorded/13398740 - Exploiting using Metasploit
+- [Metasploit Exploitation Framework](http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training) - Exploiting with the power of the Metasploit framework
+- [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
+- [Additional Metasploit Tutorial](http://www.ethicalhacker.net/component/option,com_smf/Itemid,54/topic,6158.0/) - Hacking tutorial with Metasploit
 #### Reverse Engineering & Malware:
 * http://www.woodmann.com/TiGa/idaseries.html - Tutorials on Reverse Engineering with IDA Pro
 * http://www.binary-auditing.com/ - Reversing to find vulnerabilities in binaries 

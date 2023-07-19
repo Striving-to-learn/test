@@ -1,3 +1,6 @@
+
+
+
 # Getting Started in Cybersecurity and Hacking
 
 ## Introduction
@@ -507,8 +510,11 @@ Content Management Systems (CMS) are popular platforms used to manage, create, a
 -   **Ghost Security**: Security concepts and practices for Ghost.
 
 ## Cybersecurity Tools
+section in progress 
 ## Cloud Security
+section in progress
 ## Digital Forensics
+section in progress 
 ## Osint 
 OSINT (Open Source Intelligence) -The practice of collecting information from published or otherwise publicly available sources 
 ### People and Organizational
@@ -557,9 +563,20 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
 
 ### ISOS
+An ISO is a virtual "box" that contains all the necessary files and data to set up a computer system or an operating system. ISO files are typically used to distribute software, including operating systems like Windows or Linux. 
+#### Windows ISO images from Microsoft
 * [Windows 10 iso image](https://www.microsoft.com/en-us/software-download/windows10)
 * [Windows 8 iso image](https://www.microsoft.com/en-us/software-download/windows8ISO)
 * [Windows 7 iso image](https://www.microsoft.com/en-us/software-download/windows7)
+#### Linux ISO images
+Common Linux Distros 
+* [Debian](https://www.debian.org/CD/http-ftp/) Stable and open-source OS with vast software repositories
+* [Ubuntu](https://ubuntu.com/download)User-friendly Linux OS based on Debian with frequent updates
+* [Linux Mint](https://linuxmint.com/download.php)Accessible OS, great for beginners, based on Ubuntu
+* [Arch](https://archlinux.org/download/)Lightweight and customizable Linux OS, preferred by experienced users
+* For more info on other Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
+
+
 
 ### Virtual machine software and virtualization
 * [VirtualBox](https://www.virtualbox.org/) windows mac and linux
@@ -627,5 +644,4 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [http://www.phenoelit-us.org/whatSAP/index.html](http://www.phenoelit-us.org/whatSAP/index.html): SAP security exploit database.
 * [http://secunia.com/](http://secunia.com/): online IT security vulnerability resource.
 * [http://cve.mitre.org/](http://cve.mitre.org/): database of publicly known security vulnerabilities.
-
 

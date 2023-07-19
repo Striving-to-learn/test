@@ -98,7 +98,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Elithecomputerguy](https://www.youtube.com/c/Elithecomputerguypage/playlists) Hardware tutorials, network tutorials, hardware reviewer, hacking tutorials, Linux tutorials, website development.
 - [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides 
 #### Programming YouTubers:
-- [thenewboston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
+- [TheNewBoston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists) Front-end and Back-End web development tutorials
 - [Derek Banas](https://www.youtube.com/c/derekbanas/playlists) Tutorials on almost every kind of programming you can imagine.
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists) Python, Web Development, and various programming tutorials

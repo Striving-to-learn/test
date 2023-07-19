@@ -96,7 +96,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Derek Banas](https://www.youtube.com/c/derekbanas/playlists): Tutorials on almost every kind of programming you can imagine.
 - [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw): Linux tutorials and stuff Linux related.
 - [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer): Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials.
-- [Joe Collins]Everything Linux related, including tutorials and guides [YouTube](https://www.youtube.com/user/BadEditPro/playlists).
+- [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides [YouTube](https://www.youtube.com/user/BadEditPro/playlists).
 #### Programmer YouTubers:
 - [thenewboston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
 - [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back-end web development (Firebase, JSON server, React, Redux, MongoDB).

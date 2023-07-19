@@ -207,19 +207,20 @@ Please note that pirating will not be supported, as many books are available for
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
 - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Extensive web development videos.
 
-## Legal hacking sites
+## Legal Hacking sites
 - [TryHackMe](https://tryhackme.com/): Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.
-- [HackThisSite](https://www.hackthissite.org/)
+- [HackThisSite](https://www.hackthissite.org/) Focuses Primarily on web exploit challenges  
 - [HackTheBox](https://www.hackthebox.eu/): Virtual machines available for download to practice hacking. Offers both beginner-friendly and advanced content.
-- [Juice Shop](https://juice-shop.herokuapp.com/#/)
-- [VulnHub](https://www.vulnhub.com/): Virtual machines available for download to practice hacking.
-- [CyberSecLabs](https://www.cyberseclabs.co.uk/)
+- [Juice Shop](https://juice-shop.herokuapp.com/#/) 
+An intentionally vulnerable web application developed by OWASP for hands-on learning of web application security.
+- [Hackerone](https://www.hackerone.com/) Web hacking challenges and bug bounty program platform
+- [CyberSecLabs](https://www.cyberseclabs.co.uk/) An online platform offering cybersecurity challenges and labs for hands-on practice and learning.
 - [WebScanTest](http://www.webscantest.com/)
+A website/application that allows users to test and analyze the security of web applications through vulnerability assessments and penetration testing.
 - [CrackMe](http://crackme.cenzic.com/Kelev/view/home.php)
+Small programs or applications designed to test a user's reverse engineering and software cracking skills.
 - [OWASP SiteGenerator](http://www.owasp.org/index.php/Owasp_SiteGenerator)
-- [Hacme](http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx), [Hacme Casino](http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx), [Hacme Shipping](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx), [Hacme Travel](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx)
-
-##  Capture the Flag/Wargames:
+## Capture the Flag/Wargames:
 - [OverTheWire](https://overthewire.org/wargames/)
 - [Intruded](http://intruded.net/)
 - [SmashTheStack](http://smashthestack.org/)
@@ -229,13 +230,14 @@ Please note that pirating will not be supported, as many books are available for
 - [Capture The Flag](http://capture.thefl.ag/calendar/)
 
 ## Vulnerable Software:
-- [VulnHub](https://www.vulnhub.com/)
-- [OldApps](http://www.oldapps.com/)
-- [OldVersion](http://www.oldversion.com/)
-- [Exploit-DB](http://www.exploit-db.com/webapps/)
-- [WAVSEP](http://code.google.com/p/wavsep/downloads/list)
+- [VulnHub](https://www.vulnhub.com/) Virtual machines available for download to practice hacking.
+- [Exploit-DB](http://www.exploit-db.com/webapps/) Database of exploits and vulnerability information
 - [OWASP SiteGenerator](http://www.owasp.org/index.php/Owasp_SiteGenerator)
+A project by OWASP that helps generate vulnerable web applications for learning and testing web application security.
 - [McAfee Hacme](http://www.mcafee.com/us/downloads/free-tools/hacmebooks.aspx), [Hacme Casino](http://www.mcafee.com/us/downloads/free-tools/hacme-casino.aspx), [Hacme Shipping](http://www.mcafee.com/us/downloads/free-tools/hacmeshipping.aspx), [Hacme Travel](http://www.mcafee.com/us/downloads/free-tools/hacmetravel.aspx)
+Deliberately vulnerable web applications developed by McAfee for practicing security testing and identifying vulnerabilities.
+- [OldApps](http://www.oldapps.com/)  Provide archived versions of software applications for compatibility or nostalgic purposes.
+- [OldVersion](http://www.oldversion.com/) Provide archived versions of software applications for compatibility or nostalgic purposes.
 
 ## Vulnerability research
 * [https://www.shodan.io/](https://www.shodan.io/): network monitoring and analytics platform. 
@@ -302,9 +304,9 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * For more info on individual Operating Systems see [https://distrowatch.com/](https://distrowatch.com/)
 
 ### ISOS
-* [windows 10 iso image for virtual machines](https://www.microsoft.com/en-us/software-download/windows10)
-* [windows 8 iso image](https://www.microsoft.com/en-us/software-download/windows8ISO)
-* [windows 7 iso image](https://www.microsoft.com/en-us/software-download/windows7)
+* [Windows 10 iso image](https://www.microsoft.com/en-us/software-download/windows10)
+* [Windows 8 iso image](https://www.microsoft.com/en-us/software-download/windows8ISO)
+* [Windows 7 iso image](https://www.microsoft.com/en-us/software-download/windows7)
 
 ### Virtual machine software and virtualization
 * [VirtualBox](https://www.virtualbox.org/) windows mac and linux
@@ -314,7 +316,6 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
   eliminating the performance and memory penalties of other methods and allowing you to cleanly integrate Windows applications into your desktop.
 
 ## References and Scripts:
-
 * [http://en.wikipedia.org/wiki/IPv4_subnetting_reference](http://en.wikipedia.org/wiki/IPv4_subnetting_reference)
 * [http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/](http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/)
 * [http://shelldorado.com/shelltips/beginner.html](http://shelldorado.com/shelltips/beginner.html)
@@ -324,7 +325,6 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * [http://www.iana.org/assignments/port-numbers](http://www.iana.org/assignments/port-numbers)
 * [http://www.robvanderwoude.com/ntadmincommands.php](http://www.robvanderwoude.com/ntadmincommands.php)
 * [http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/](http://www.nixtutor.com/linux/all-the-best-linux-cheat-sheets/)
-
 ## Conferences:
 * [Defcon](https://www.defcon.org/)  one of the largest worldwide Hacking conferences  in the world  
 * [Blackhat](https://blackhat.com/)  large worldwide conference all over the globe 
@@ -337,9 +337,7 @@ OSINT (Open Source Intelligence) -The practice of collecting information from pu
 * [GNUCITIZEN](http://www.gnucitizen.org)
 * [Darknet - The Darkside](http://www.darknet.org.uk/)
 ### Forums:
-
 Created for forums that will help in both tool usage, syntax, attack techniques, and collection of scripts and tools.
-
 * [EH-Net Forums](https://www.ethicalhacker.net/forums/index.php)
 * [Hak5 Forums](https://forums.hak5.org/)
 * [Kali Linux Forums](https://forums.kali.org/)
@@ -347,7 +345,6 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [Hackthissite Forums](http://www.hackthissite.org/forums/index.php)
 * [Security Override Forums](http://securityoverride.com/forum/index.php)
 * [Government Security](http://www.governmentsecurity.org/forum/)
-
 ### Wikis
 * [Pwn Wiki](http://pwnwiki.io/)
 * [Skull Security](https://wiki.skullsecurity.org/)
@@ -355,15 +352,10 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * [SQL Injection Wiki](http://www.sqlinjectionwiki.com/)
 * [Forgotten Security's CTF Wiki](http://ctf.forgottensec.com/wiki/index.php)
 ### Magazines:
-
 * [(In)Secure Magazine](http://www.net-security.org/insecuremag.php)
 * [Hackin9](http://hakin9.org/)
-
-
-
 ## Hacking Techniques
 ### Metasploit:
-
 * http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training - Exploiting with the power of the Metasploit framework
 * http://www.irongeek.com/i.php?page=videos/metasploit-class - Introduction to exploitation with Metasploit
 * http://www.ethicalhacker.net/component/option,com_smf/Itemid,54/topic,6158.0/ - Hacking tutorial with Metasploit
@@ -442,13 +434,11 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://www.irongeek.com/i.php?page=videos/ettercap-plugins-find-ip-gw-discover-isolate - Ettercap Plugins video.
 * http://www.irongeek.com/i.php?page=videos/ettercapfiltervid1 - Tutorial on Ettercap Filters video.
 * http://spareclockcycles.org/2010/06/10/sergio-proxy-released/ - Release of Sergio Proxy blog post.
-
 ### Google Hacking and Dorking:
 * http://www.stachliu.com/index.php/resources/tools/google-hacking-diggity-project/ - Google Hacking and Dorking software
 * http://midnightresearch.com/projects/search-engine-assessment-tool/#downloads - Search engine vulnerability assessment
 * http://sqid.rubyforge.org/#next - SQL Injection Digger
 * http://voidnetwork.org/5ynL0rd/darkc0de/python_script/dorkScan.html - Python dork scanning tool
-
 ### Web:
 * http://www.bindshell.net/tools/beef - Browser Exploitation Framework
 * http://blindelephant.sourceforge.net/ - Scanner for known vulnerable web apps
@@ -464,8 +454,8 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://packetstormsecurity.org/files/view/69896/unicode-fun.txt - Unicode exploitation guide
 * http://sourceforge.net/projects/ws-attacker/files/ - Web security testing framework
 * https://github.com/koto/squid-imposter - SSL impostering for MITM attacks
-####  SQLi: (SQL injection ) 
-
+####  SQLi: (SQL injection )   
+A vulnerability that permits attackers to manipulate SQL queries to gain unauthorized access, modify, or retrieve sensitive data from a database.
 * http://pentestmonkey.net/blog/mssql-sql-injection-cheat-sheet/
 * http://isc.sans.edu/diary.html?storyid=9397
 * http://ferruh.mavituna.com/sql-injection-cheatsheet-oku/
@@ -487,9 +477,8 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://old.justinshattuck.com/2007/01/18/mysql-injection-cheat-sheet/
 * http://ha.ckers.org/sqlinjection/
 * http://lab.mediaservice.net/notes_more.php?id=MSSQL
-
 #### Upload Tricks
-
+Upload web vulnerabilities refer to security flaws that allow malicious users to upload and execute unauthorized files, potentially leading to server compromise or unauthorized access to the system.
 * http://www.google.com/#hl=en&q=bypassing+upload+file+type&start=40&sa=N&fp=a2bb30ecf4f91972
 * http://blog.skeptikal.org/2009/11/adobe-responds-sort-of.html
 * http://blog.insicdesigns.com/2009/01/secure-file-upload-in-php-web-applications/
@@ -502,12 +491,10 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://dev.tangocms.org/issues/237
 * http://seclists.org/fulldisclosure/2006/Jun/508
 * http://www.gnucitizen.org/blog/cross-site-file-upload-attacks/
-* http://www.ipolicynetworks.com/technology/files/TikiWiki_jhot.php_Script_File_Upload_Security_Bypass_Vulnerability.html
 * http://shsc.info/FileUploadSecurity
-
-
+* http://www.ipolicynetworks.com/technology/files/TikiWiki_jhot.php_Script_File_Upload_Security_Bypass_Vulnerability.html
 #### LFI/RFI:
-
+Allows an attacker to include files from the target system or remote servers, potentially leading to unauthorized access or code execution.
 * http://pastie.org/840199 - Online source code for an LFI/RFI vulnerability
 * http://websec.wordpress.com/2010/02/22/exploiting-php-file-inclusion-overview/ - Exploring PHP file inclusion vulnerabilities 
 * http://www.notsosecure.com/folder2/2010/08/20/lfi-code-exec-remote-root/?utm_source=twitterfeed&utm_medium=twitter - Executing remote root on LFI 
@@ -515,7 +502,7 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://www.digininja.org/blog/when_all_you_can_do_is_read.php - Understanding file-access denial exploits
 
 #### XSS: (Cross-site Scripting) 
-
+An attack where malicious scripts are injected into web pages, affecting users who visit the page and potentially stealing their data or taking control of their accounts.
 * http://www.infosecwriters.com/hhworld/hh8/csstut.htm - Cross-site scripting tutorial
 * http://www.technicalinfo.net/papers/CSS.html - Basic tutorial on XSS
 * http://msmvps.com/blogs/alunj/archive/2010/07/07/1773441.aspx - Exploiting maliciously crafted URLs
@@ -640,7 +627,7 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://tenable.com/products/nessus - Vulnerability scanner and management
 * http://www.rapid7.com/vulnerability-scanner.jsp - Vulnerability scanner and management
 * http://www.eeye.com/products/retina/community - Vulnerability scanner
-## Cheatsheets and Syntax:
+## Cheat sheets and Syntax:
 * http://cirt.net/ports_dl.php?export=services - Lists of port services definitions
 * http://www.cheat-sheets.org/ - Compilation of cheatsheets for a variety of topics
 * http://blog.securitymonks.com/2009/08/15/whats-in-your-folder-security-cheat-sheets/ - Collection of security-related cheatsheets

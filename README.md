@@ -385,7 +385,6 @@ Created for forums that will help in both tool usage, syntax, attack techniques,
 * http://www.foofus.net/?page_id=63 - Tutorial on cracking hashes using Medusa
 * http://hashcrack.blogspot.com/ - Blog about cracking hashes and passwords 
 * http://www.nirsoft.net/articles/saved_password_location.html - How to find passwords and hashes in a system
-* http://www.md5this.com/list.php? - Collection of hashes and passwords 
 * http://www.virus.org/default-password - Default Passwords 
 * http://www.phenoelit-us.org/dpl/dpl.html - Online Hash cracker
 * http://news.electricalchemy.net/2009/10/cracking-passwords-in-cloud.html - Cloud-based Hash cracking

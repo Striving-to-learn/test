@@ -113,6 +113,12 @@ Please note that pirating will not be supported, as many books are available for
 - [CyberSecLabs](https://www.cyberseclabs.co.uk/): An online platform offering cybersecurity challenges and labs for hands-on practice and learning.
 - [WebScanTest](http://www.webscantest.com/): A website/application that allows users to test and analyze the security of web applications through vulnerability assessments and penetration testing.
 - [CrackMe](http://crackme.cenzic.com/Kelev/view/home.php): Small programs or applications designed to test a user's reverse engineering and software cracking skills.
+### Bug Bounty Programs
+- [HackerOne](https://www.hackerone.com/)
+- [Bugcrowd](https://www.bugcrowd.com/)
+- [Synack](https://www.synack.com/)
+- [Open Bug Bounty](https://www.openbugbounty.org/)
+- [YesWeHack](https://www.yeswehack.com/)
 ### Vulnerable Software:
 - [VulnHub](https://www.vulnhub.com/): Virtual machines available for download to practice hacking.
 - [Exploit-DB](http://www.exploit-db.com/webapps/): Database of exploits and vulnerability information.

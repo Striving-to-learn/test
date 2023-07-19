@@ -41,7 +41,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Stanford Network Security](http://crypto.stanford.edu/cs155/)A course on network security from Stanford University
 - [UCSD Network Security](http://cseweb.ucsd.edu/classes/wi09/cse227/)A network security course offered by UCSD
 - [Berkeley Computer Security](http://www-inst.eecs.berkeley.edu/~cs161/sp11/)A computer security course from UC Berkeley
-- [UCLA Security Talks](http://security.ucla.edu/pages/Security_Talks) Provides security talks and presentations from UCLA.Provides security talks and presentations from UCLA.
+- [UCLA Security Talks](http://security.ucla.edu/pages/Security_Talks) Provides security talks and presentations from UCLA
 - [RPI Computer Security](http://www.cs.rpi.edu/academics/courses/spring10/csci4971/) A computer security course from Rensselaer Polytechnic Institute.
 - [Daniel Bernstein Cryptography](http://cr.yp.to/2004-494.html)Provides information on cryptography by Daniel Bernstein
 - [CMU Computer Security](http://www.ece.cmu.edu/~dbrumley/courses/18732-f09/)A computer security course from Carnegie Mellon University

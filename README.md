@@ -92,20 +92,21 @@ Please note that pirating will not be supported, as many books are available for
 - [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT): Technical cybersecurity conferences.
 - [DEFCON](https://www.youtube.com/user/DEFCONConference): Technical Cybersecurity Conference.
 #### Tech Reviewers/PC Building/Consumer Tech:
-- [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ): Tech reviewer, hardware tutorials.
-- [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips): Hardware tutorials, tech reviewer, PC building.
-- [ThioJoe](https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ): Hardware tutorials, tech reviewer, PC building.
-- [Elithecomputerguy](https://www.youtube.com/c/Elithecomputerguypage/playlists): Hardware tutorials, network tutorials, hardware reviewer, hacking tutorials, Linux tutorials, website development.
-- [Derek Banas](https://www.youtube.com/c/derekbanas/playlists): Tutorials on almost every kind of programming you can imagine.
-- [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw): Linux tutorials and stuff Linux related.
-- [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer): Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials.
-- [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides [YouTube](https://www.youtube.com/user/BadEditPro/playlists).
-#### Programmer YouTubers:
+- [Barnacules Nerdgasm](https://www.youtube.com/channel/UC1MwJy1R0nGQkXxRD9p-zTQ) Tech reviewer, hardware tutorials.
+- [Linus Tech Tips](https://www.youtube.com/user/LinusTechTips) Hardware tutorials, tech reviewer, PC building.
+- [ThioJoe](https://www.youtube.com/channel/UCQSpnDG3YsFNf5-qHocF-WQ) Hardware tutorials, tech reviewer, PC building.
+- [Elithecomputerguy](https://www.youtube.com/c/Elithecomputerguypage/playlists) Hardware tutorials, network tutorials, hardware reviewer, hacking tutorials, Linux tutorials, website development.
+- [Joe Collins](https://www.youtube.com/channel/UCTfabOKD7Yty6sDF4POBVqA)Everything Linux related, including tutorials and guides 
+#### Programming YouTubers:
 - [thenewboston](https://www.youtube.com/user/thenewboston): Programming tutorials (web development - front end and back end, python, ruby).
-- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back-end web development (Firebase, JSON server, React, Redux, MongoDB).
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja/playlists): Front-end web development tutorials (HTML, CSS, JavaScript, JSON), back-end web development (Firebase, JSON server, React, Redux, MongoDB)
+- [Derek Banas](https://www.youtube.com/c/derekbanas/playlists) Tutorials on almost every kind of programming you can imagine.
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia/playlists)
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
-- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp): Extensive web development videos
+- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp) Extensive web development videos
+#### Linux Youtubers
+- [Switched to Linux](https://www.youtube.com/channel/UCoryWpk4QVYKFCJul9KBdyw) Linux tutorials and stuff Linux related.
+- [TheLinuxGamer](https://www.youtube.com/user/TheLinuxgamer) Linux gaming, Linux tutorials, photo editing, music editing, programming, and some hacking tutorials
 ## Hacking and Security Challenges
 ### Capture the Flag (CTF) Challenges:
 - [TryHackMe](https://tryhackme.com/): Highly recommended for beginners. They have many good free tutorials and detailed walkthroughs for many rooms.

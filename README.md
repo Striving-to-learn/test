@@ -133,13 +133,9 @@ Please note that pirating will not be supported, as many books are available for
 #### Metasploit:
 - [Metasploit Exploitation Framework](http://www.offensive-security.com/metasploit-unleashed/Metasploit_Unleashed_Information_Security_Training) - Exploiting with the power of the Metasploit framework
 - [Irongeek Metasploit Course](http://www.irongeek.com/i.php?page=videos/metasploit-class) - Introduction to exploitation with Metasploit
-- [Additional Metasploit Tutorial](http://www.ethicalhacker.net/component/option,com_smf/Itemid,54/topic,6158.0/) - Hacking tutorial with Metasploit
+
 #### Reverse Engineering & Malware:
-* http://www.woodmann.com/TiGa/idaseries.html - Tutorials on Reverse Engineering with IDA Pro
-* http://www.binary-auditing.com/ - Reversing to find vulnerabilities in binaries 
-* http://visi.kenshoto.com/ - Reverse engineering for everyone
-* http://www.radare.org/y/ - Extensive reverse engineering framework 
-* http://www.offensivecomputing.net/ - Dissection of malware for analysis 
+looking for resources on this section 
 #### Passwords and Hashes:
 * http://www.irongeek.com/i.php?page=videos/password-exploitation-class - Security and Password exploitation class
 * http://cirt.net/passwords - Tutorials to crack passwords (hashes)

@@ -160,7 +160,7 @@ looking for resources on this section
 * https://www.base64encode.org/ - Decode base64 encoded hashes
 * https://www.base64encode.net/ - Tool to decode encoded hashes
 #### Wordlists:
-* [Seclists] (https://github.com/danielmiessler/SecLists one of the most well-known sets of wordlists. Referenced in many CTFS 
+* [Seclists](https://github.com/danielmiessler/SecLists) one of the most well-known sets of wordlists. Referenced in many CTFS 
 * [Korelogic](http://contest.korelogic.com/wordlists.html)
 * [PacketStorm](http://packetstormsecurity.org/Crackers/wordlists/)
 * [Skullsecurity](http://www.skullsecurity.org/wiki/index.php/Passwords)

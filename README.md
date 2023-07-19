@@ -1,8 +1,8 @@
-# Getting Started in Programming, IT, Hacking, and Networking Guide
+# Getting Started in Cybersecurity and Hacking
 
 ## Introduction
 
-This guide aims to provide easy-to-access resources for individuals interested in learning more about programming, networking, ethical hacking, and bug bounty. Below, you will find organized links and resources related to each topic for your convenience.
+This guide aims to provide easy-to-access resources for individuals interested in learning more about Cybersecurity and ethical hacking, and bug bounty. Below, you will find organized links and resources related to each topic for your convenience.
 
 ## Table of Contents
 - [Getting Started](https://github.com/themixedcoder/test/blob/main/README.md#getting-started)
